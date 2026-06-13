@@ -1,6 +1,0 @@
-{
-  "name": "Guess Country",
-  "description": "Guess the Country word game with online rooms, account login, live chat, interactive gameplay, and single-player difficulty modes.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
